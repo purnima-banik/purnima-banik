@@ -14,7 +14,7 @@
 </p>
 
 <p align="left"> <a href="https://www.instagram.com/_purnimabanik_/?igshid=YmM0MjE2YWMzOA%3D%3D" target="blank"><https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/></a> </p>
-	
+	<https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
 <br><br>
 <hr>
 
