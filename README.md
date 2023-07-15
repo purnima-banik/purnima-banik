@@ -4,8 +4,8 @@
 - 🔭 I’m currently a student of Master of Information Technology @ CQUniversity, Melbourne
 - 🌱 I’m currently learning about Software Engineering
 - 💬 Ask me about Information Technology
-- 📫 How to reach me: [@__purnimabanik__](https://instagram.com/__purnimabanik__)
-
+- 📫 How to reach me: [@__purnimabanik__](https://www.instagram.com/_purnimabanik_/?igshid=YmM0MjE2YWMzOA%3D%3D)
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnima-banik&label=Profile%20views&color=0e75b6&style=flat" alt="purnima-banik" /> </p>
 
 <p>
